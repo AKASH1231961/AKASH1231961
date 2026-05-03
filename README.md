@@ -3,7 +3,9 @@
 </div>
 
 
+
 ---
+
 
 
 ## 🧠 About Me
@@ -17,10 +19,13 @@
 - 🌱 Learning: Advanced Machine Learning & Cloud Deployment  
 
 
+
 ---
 
 
+
 ## 🛠️ Tech Stack
+
 
 
 ### 💻 Languages
@@ -29,9 +34,11 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 
+
 ### 📚 Libraries & Frameworks
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
 
 
 ### 🗄️ Databases & Tools
@@ -41,7 +48,9 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
+
 ---
+
 
 
 ## 💼 Experience
@@ -53,7 +62,9 @@
 - Developed & maintained **SQL queries (MySQL)** for efficient data extraction, manipulation, and reporting  
 
 
+
 ---
+
 
 
 ## 📊 GitHub Stats
@@ -64,17 +75,21 @@
 </div>
 
 
+
 ---
 
 
-## 🐍 Contribution Graph
+
+## 🎯 Contribution Graph
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake.svg" alt="Snake animation" />
+  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D GitHub Contribution Graph" />
 </div>
 
 
+
 ---
+
 
 
 ## 🏅 Achievements & Soft Skills
@@ -87,7 +102,9 @@
 | ⏱️ Time management | 📚 Academic excellence |
 
 
+
 ---
+
 
 
 ## 🌐 Languages
@@ -97,7 +114,9 @@
 - **Hindi** (Conversational)
 
 
+
 ---
+
 
 
 ## 📫 Let's Connect
@@ -107,7 +126,9 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
 
 
+
 ---
+
 
 
 <div align="center">

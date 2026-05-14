@@ -96,7 +96,7 @@
 <div align="center">
 
   <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AKASH1231961&theme=github_dark"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AKASH1231961&theme=tokyonight"
     width="95%"
   />
 

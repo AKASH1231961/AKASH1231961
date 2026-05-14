@@ -75,14 +75,13 @@
 </div>
 
 
-## 📊 GitHub Analytics
 
 <div align="center">
 
-  <img 
+  <!--img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AKASH1231961&theme=github_dark" 
     height="180"
-  />
+  /-->
 
   <!--img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AKASH1231961&theme=github_dark" 

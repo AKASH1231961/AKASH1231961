@@ -80,7 +80,7 @@
 <div align="center">
 
   <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AKASH1231961&theme=nord_dark" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AKASH1231961&theme=dracula" 
     height="180"
   />
 

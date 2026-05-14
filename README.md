@@ -71,38 +71,8 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AKASH1231961&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AKASH1231961&theme=dark&hide_border=true&background=0D1117" height="170" />
+  <!--img src="https://github-readme-streak-stats.herokuapp.com/?user=AKASH1231961&theme=dark&hide_border=true&background=0D1117" height="170" /-->
 </div>
-
-
-
-<div align="center">
-
-  <!--img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AKASH1231961&theme=github_dark" 
-    height="180"
-  /-->
-
-  <!--img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AKASH1231961&theme=github_dark" 
-    height="180"
-  /-->
-
-</div>
-
-<br>
-
-<div align="center">
-
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AKASH1231961&theme=tokyonight"
-    width="95%"
-  />
-
-</div>
-<!--/div>  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AKASH1231961&theme=dark&hide_border=true&background=0D1117" height="170" />
-</div-->
-
 
 
 

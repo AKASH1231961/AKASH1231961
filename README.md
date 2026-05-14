@@ -80,12 +80,12 @@
 <div align="center">
 
   <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AKASH1231961&theme=dracula" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AKASH1231961&theme=github_dark" 
     height="180"
   />
 
   <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AKASH1231961&theme=tokyonight" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AKASH1231961&theme=github_dark" 
     height="180"
   />
 
@@ -96,7 +96,7 @@
 <div align="center">
 
   <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AKASH1231961&theme=tokyonight"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AKASH1231961&theme=github_dark"
     width="95%"
   />
 

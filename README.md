@@ -69,27 +69,11 @@
 
 ## 📊 GitHub Stats
 
-<!--div align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AKASH1231961&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" height="170" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AKASH1231961&theme=dark&hide_border=true&background=0D1117" height="170" />
-</div-->
+</div>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=AKASH1231961&cache_seconds=86400" />
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AKASH1231961&show_icons=true&theme=tokyonight" height="170"/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKASH1231961&layout=compact&theme=tokyonight" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AKASH1231961&theme=github-dark"/>
-</p>
-</p>
 
 
 

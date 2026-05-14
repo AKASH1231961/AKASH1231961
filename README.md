@@ -76,8 +76,8 @@
 
 
 <div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=AKASH1231961&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&cache_seconds=86400"
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AKASH1231961&theme=github_dark"
     height="170"
   />
 </div>

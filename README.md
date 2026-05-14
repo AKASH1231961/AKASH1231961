@@ -84,10 +84,10 @@
     height="180"
   />
 
-  <img 
+  <!--img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AKASH1231961&theme=github_dark" 
     height="180"
-  />
+  /-->
 
 </div>
 

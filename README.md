@@ -77,8 +77,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=AKASH1231961)  
   <img src="https://streak-stats.demolab.com/?user=AKASH1231961&cache_seconds=86400" />
+  ![Graph](https://github-readme-activity-graph.vercel.app/graph?username=AKASH1231961)  
+
 </p>
 
 

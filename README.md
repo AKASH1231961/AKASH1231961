@@ -69,9 +69,17 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<!--div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AKASH1231961&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" height="170" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AKASH1231961&theme=dark&hide_border=true&background=0D1117" height="170" />
+</div-->
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AKASH1231961&show_icons=true&theme=dark&hide_border=true" height="170"/>
+
+  <img src="https://streak-stats.demolab.com?user=AKASH1231961&theme=dark&hide_border=true" height="170"/>
 </div>
 
 

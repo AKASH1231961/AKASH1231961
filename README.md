@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=28&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Akash+S;Data+Analytics+%7C+Machine+Learning;NLP%7C+Deep+Learning;Python+%7C+SQL+%7C+Django;Building+intelligent+systems" alt="Typing SVG" />
-</div>zz
+</div>
 
 
 

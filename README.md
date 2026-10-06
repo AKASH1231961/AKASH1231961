@@ -10,7 +10,7 @@
 
 ## 🧠 About Me
 
-> Computer Science graduate with a passion for **Data Analytics**, **Machine Learning**,**AI Developer** and **Full-Stack Development**.  
+> Computer Science graduate with a passion for **Data Analytics**, **Machine Learning**,**AI ML Developer** and **Full-Stack Development**.  
 > I love building real-world solutions — from Guardian ai  apps to property scrapers — that make data actionable.
 
 - 🔭 Currently pursuing **M.Sc. Data Analytics & Computational Science** @ Kerala University of Digital Sciences  

@@ -10,8 +10,8 @@
 
 ## 🧠 About Me
 
-> Computer Science graduate with a passion for **Data Analytics**, **Machine Learning**, and **Full-Stack Development**.  
-> I love building real-world solutions — from pothole detection apps to property scrapers — that make data actionable.
+> Computer Science graduate with a passion for **Data Analytics**, **Machine Learning**,**AI Developer** and **Full-Stack Development**.  
+> I love building real-world solutions — from Guardian ai  apps to property scrapers — that make data actionable.
 
 - 🔭 Currently pursuing **M.Sc. Data Analytics & Computational Science** @ Kerala University of Digital Sciences  
 - 🧠 4⭐ HackerRank | NSS Volunteer @ NIC Camp Raipur  

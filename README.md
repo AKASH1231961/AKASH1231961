@@ -85,6 +85,12 @@
   <img src="https://raw.githubusercontent.com/AKASH1231961/AKASH1231961-AKASH1231961/refs/heads/main/profile-3d-contrib/profile-night-green.svg" alt="3D GitHub Contribution Graph" />
 </div-->
 
+<p align="center">
+  <a href="https://github.com/PramudithaN/git-tulkun">
+    <img src="https://raw.githubusercontent.com/YOUR_USERNAME/AKASH1231961/output/tulkun/tulkun.gif" width="640" alt="git-tulkun swimming" />
+  </a>
+</p>
+
 
 ---
 

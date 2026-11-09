@@ -87,8 +87,7 @@
 
 <p align="center">
   <a href="https://github.com/PramudithaN/git-tulkun">
-    <img src="https://raw.githubusercontent.com/YOUR_USERNAME/AKASH1231961/output/tulkun/tulkun.gif" width="640" alt="git-tulkun swimming" />
-  </a>
+<img src="https://raw.githubusercontent.com/AKASH1231961/AKASH1231961/output/tulkun/tulkun.gif" width="640" alt="git-tulkun swimming" />  </a>
 </p>
 
 
